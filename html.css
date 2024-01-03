@@ -1,0 +1,61 @@
+body{
+    background-image: url('pic/gym.jpg');
+}
+.first{
+    background-color: rgb(17, 66, 69);
+    height: 420px;
+    width: 310px;
+    box-shadow: 5px 5px 15px 5px;
+    margin: 130px 80px;
+}
+h1{
+    text-align: center;
+    color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 60px;
+}
+form{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+#email{
+    margin-bottom: 15px;
+    box-shadow: 3px 4px 5px 2px;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    background-color:darkgray;
+    padding: 8px;
+    width: 220px;
+    
+}
+input[type="password"]{
+    
+    box-shadow: 3px 4px 5px 2px;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    background-color:darkgray;
+    padding: 8px;
+    width: 220px;
+
+
+}
+input[type="submit"]{
+    box-shadow: 3px 4px 5px 2px;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    background-color:darkgray;
+    margin-left: 60px;
+    padding: 5px;
+    width: 100px;
+}
+.para{
+    color: rgb(197, 159, 251);
+    margin-top: 3px;
+    font-size: 15px;
+}
+.or{
+    margin-left:80px ;
+    color: cadetblue;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
